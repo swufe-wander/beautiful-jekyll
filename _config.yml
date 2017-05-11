@@ -16,13 +16,13 @@ baseurl: ""
 # Name of website
 title: swufe－wander website
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: beat your yesterday!
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "who am i"
   Resources
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
@@ -41,8 +41,8 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: jerry
-  email: "youremail@domain.com"
+  name: 温江老司机
+  email: "18980059058@189.cn"
   facebook: yourname  # eg. daattali
   github: yourname    # eg. daattali
   twitter: yourname   # eg. daattali
